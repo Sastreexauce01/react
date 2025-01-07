@@ -1,6 +1,6 @@
 import Banner from './Banner'
 import Carte from './Carte'
-
+import ShoppingList from  './ShoppingList.jsx'
 
 
 function App(){
@@ -8,6 +8,7 @@ function App(){
     <div>
       <Banner />
       <Carte />
+      <ShoppingList/>
     </div>
    )
 }
