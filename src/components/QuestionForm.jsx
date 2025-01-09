@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 function QuestionForm() {
     const [inputValue, setInputValue] = useState('Posez votre question ici')
-    const isInputError = inputValue.includes('f')
+
     return (
         <div>
             <textarea
