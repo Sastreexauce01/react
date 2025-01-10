@@ -1,0 +1,5 @@
+.lmj-layout-inner {
+	display: flex;
+	flex-direction: row;
+	background-color: rgb(247, 231, 201);
+}
