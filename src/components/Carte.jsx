@@ -31,7 +31,7 @@ function Carte() {
 				onClick={() => setIsOpen(true)}
 			>
 				Ouvrir le Panier
-			</button>
+			</button>git
 		</div>
 	)
 }
